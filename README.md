@@ -6,3 +6,6 @@ Features
 2. Handle invalid inputs gracefully with error messages.
 
 3. Simple and easy-to-use command-line interface.
+
+
+https://github.com/user-attachments/assets/a44e9fcb-b413-44a4-a8e3-ec586deee19f
