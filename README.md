@@ -8,4 +8,7 @@ Features
 3. Simple and easy-to-use command-line interface.
 
 
-https://github.com/user-attachments/assets/a44e9fcb-b413-44a4-a8e3-ec586deee19f
+
+
+https://github.com/user-attachments/assets/9d8c9669-1ec5-495c-9bb4-4f0542b9f711
+
